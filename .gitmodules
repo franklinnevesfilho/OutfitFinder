@@ -1,3 +1,7 @@
 [submodule "outfit-finder-backend"]
 	path = outfit-finder-backend
 	url = https://github.com/franklinnevesfilho/outfit-finder-backend.git
+	branch = master
+[submodule "outfit-finder-frontend"]
+	path = outfit-finder-frontend
+	url = https://github.com/franklinnevesfilho/outfit-finder-frontend.git
