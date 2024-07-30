@@ -5,3 +5,4 @@
 [submodule "outfit-finder-frontend"]
 	path = outfit-finder-frontend
 	url = https://github.com/franklinnevesfilho/outfit-finder-frontend.git
+	branch = master
