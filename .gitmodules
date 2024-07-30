@@ -1,0 +1,3 @@
+[submodule "outfit-finder-backend"]
+	path = outfit-finder-backend
+	url = https://github.com/franklinnevesfilho/outfit-finder-backend.git
