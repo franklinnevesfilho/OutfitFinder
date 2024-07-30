@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/OutfitFinder.iml" filepath="$PROJECT_DIR$/.idea/OutfitFinder.iml" />
-      <module fileurl="file://$PROJECT_DIR$/outfit-finder-frontend.iml" filepath="$PROJECT_DIR$/outfit-finder-frontend.iml" />
     </modules>
   </component>
 </project>
